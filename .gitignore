@@ -1,0 +1,13 @@
+# Kodak firmware binaries are not redistributed
+*.exe
+*.fw
+*.FW
+*.OLD
+# camera RAW files and photos
+*.RAW
+*.raw
+*.dng
+*.DNG
+*.jpg
+*.JPG
+__pycache__/
